@@ -1,0 +1,33 @@
+
+image: bus_6.png ср 2023.05.24  time:  01:39:37 AM MSK
+ cv2_detected_object [ true ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ true ]
+image: bus_8.png ср 2023.05.24  time:  01:40:11 AM MSK
+ cv2_detected_object [ true ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ true ]
+image: bus_2.png ср 2023.05.24  time:  01:41:03 AM MSK
+ cv2_detected_object [ true ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ true ]
+image: logo_projects.png ср 2023.05.24  time:  01:42:05 AM MSK
+ cv2_detected_object [ false ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ false ]
+image: bus_2.png ср 2023.05.24  time:  01:43:10 AM MSK
+ cv2_detected_object [ true ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ true ]
+image: 1663819242_35-phonoteka-org-p-rzhd-oboi-krasivo-37.jpeg ср 2023.05.24  time:  01:44:17 AM MSK
+ cv2_detected_object [ false ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ false ]
+image: bus_5.png ср 2023.05.24  time:  01:45:36 AM MSK
+ cv2_detected_object [ false ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ false ]
+image: &#1057;&#1085;&#1080;&#1084;&#1086;&#1082; &#1101;&#1082;&#1088;&#1072;&#1085;&#1072; 2023-05-26 &#1074; 13.56.49.png пт 2023.05.26  time:  01:58:38 PM MSK
+ cv2_detected_object [ true ] 
+ loadFiles [ true ] 
+ yolo_detectedImages [ true ]
